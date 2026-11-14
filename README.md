@@ -1,0 +1,16 @@
+# ZionLink Market Entry
+
+A Claude plugin that guides you through four short steps to a first market entry plan. You approve each step. Everything it writes is a hypothesis to test. It never sends a message for you.
+
+Steps: `start`, `customer-profile`, `priority-countries`, `targets-and-partners`, `first-approach`.
+
+Install in Claude Code:
+
+```
+claude plugin marketplace add tamaraerlij/zionlink-skills
+claude plugin install zionlink-market-entry@zionlink
+```
+
+Then open a new conversation and type `/zionlink-market-entry:start`.
+
+Made by ZionLink, https://zionlink.io. All rights reserved.

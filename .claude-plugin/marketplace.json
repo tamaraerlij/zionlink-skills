@@ -1,0 +1,14 @@
+{
+  "name": "zionlink",
+  "owner": { "name": "ZionLink", "url": "https://zionlink.io" },
+  "metadata": { "description": "Skills from ZionLink (zionlink.io)" },
+  "plugins": [
+    {
+      "name": "zionlink-market-entry",
+      "source": "./",
+      "description": "Guided Market Entry Skill: customer profile, priority countries, targets and partners, first approach draft. You approve each step.",
+      "version": "0.1.0",
+      "author": { "name": "ZionLink" }
+    }
+  ]
+}
