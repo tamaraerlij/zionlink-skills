@@ -1,7 +1,7 @@
 {
   "name": "zionlink-market-entry",
   "version": "0.1.0",
-  "description": "Guided Market Entry Skill from ZionLink. Four short steps, you approve each one: who can buy, which countries first, which targets and partners, and a first approach draft. Everything is a hypothesis to test, nothing is sent.",
+  "description": "Guided Market Entry Skill from ZionLink. Five short steps, you approve each one: who can buy, which countries first, which targets and partners, a first approach draft, and a map of your repeated commercial work. Everything is a hypothesis to test, nothing is sent.",
   "author": { "name": "ZionLink", "url": "https://zionlink.io" },
   "homepage": "https://zionlink.io",
   "license": "Proprietary",

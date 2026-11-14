@@ -34,6 +34,7 @@ Keep it in the current folder. It remembers answers so you never ask twice. Form
 - step 2 priority countries: approved YYYY-MM-DD | pending
 - step 3 targets and partners: approved YYYY-MM-DD | pending
 - step 4 first approach: approved YYYY-MM-DD | pending
+- step 5 commercial work map: approved YYYY-MM-DD | pending
 - next step: <what was agreed>
 ```
 Update it after every approved step, not only at the end. If the conversation stops, the next one continues from there.
@@ -41,7 +42,7 @@ Update it after every approved step, not only at the end. If the conversation st
 ## Step 0: is there a saved start?
 Look for `zionlink-market-entry.md` in the current folder.
 - **Found:** say in two lines what is done and what is missing. Go to the next pending step.
-- **Not found:** welcome the person in 3 or 4 short lines. Say what this does (four short steps, about 30 minutes, you approve each one), that it creates hypotheses to test and not verified facts, and that they can stop and come back any time.
+- **Not found:** welcome the person in 3 or 4 short lines. Say what this does (five short steps, you approve each one: a market plan in four steps, then a map of the commercial work your team repeats), that it creates hypotheses to test and not verified facts, and that they can stop and come back any time.
 
 ## Step 1: the basics (ask one at a time)
 1. "What is the name of your company?"
@@ -55,6 +56,6 @@ After each answer, say in one short line how you will use it. Save to the state 
 ## Next
 Send the person to the right step:
 - `/zionlink-market-entry:customer-profile` for step 1
-- then `/zionlink-market-entry:priority-countries`, `/zionlink-market-entry:targets-and-partners`, `/zionlink-market-entry:first-approach`
+- then `/zionlink-market-entry:priority-countries`, `/zionlink-market-entry:targets-and-partners`, `/zionlink-market-entry:first-approach`, and `/zionlink-market-entry:workflow-map`
 
 Offer to start step 1 right now.

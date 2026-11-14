@@ -1,8 +1,8 @@
 # ZionLink Market Entry
 
-A Claude plugin that guides you through four short steps to a first market entry plan. You approve each step. Everything it writes is a hypothesis to test. It never sends a message for you.
+A Claude plugin that guides you through five short steps: a first market entry plan, then a map of the commercial work your team repeats and which tasks are good candidates for Claude. You approve each step. Everything it writes is a hypothesis to test. It never sends a message for you.
 
-Steps: `start`, `customer-profile`, `priority-countries`, `targets-and-partners`, `first-approach`.
+Steps: `start`, `customer-profile`, `priority-countries`, `targets-and-partners`, `first-approach`, `workflow-map`.
 
 Install in Claude Code:
 
