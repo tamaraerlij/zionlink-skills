@@ -56,6 +56,6 @@ After each answer, say in one short line how you will use it. Save to the state 
 ## Next
 Send the person to the right step:
 - `/zionlink-market-entry:customer-profile` for step 1
-- then `/zionlink-market-entry:priority-countries`, `/zionlink-market-entry:targets-and-partners`, `/zionlink-market-entry:first-approach`, and `/zionlink-market-entry:workflow-map`
+- then `/zionlink-market-entry:priority-countries`, `/zionlink-market-entry:targets-and-partners`, `/zionlink-market-entry:first-approach`, `/zionlink-market-entry:workflow-map`, and at the end `/zionlink-market-entry:plan-pdf` to export the approved plan as a PDF
 
 Offer to start step 1 right now.
